@@ -17,7 +17,7 @@ title: BUDS
 description: Berkeley Unboxing Data Science
 author: UC Berkeley
 baseurl: ~ # the subpath of your site, e.g. /blog
-url: 'https://buds-demo-web' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://buds-demo-web.org' # the base hostname & protocol for your site, e.g. http://example.com
 #logo: "/assets/d6-header.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
